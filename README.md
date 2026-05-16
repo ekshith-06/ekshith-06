@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Ekshith Kumar 👋</h1>
-
 <p align="center">
-  Computer Science Student | Java Developer | DSA Enthusiast
+  <img width="100%" src="./Pacifico.png" />
 </p>
 
 ---
@@ -39,18 +37,17 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekshith-06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<p align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ekshith-06&theme=dark&hide_border=true" />
-</p> -->
+  <img src="https://streak-stats.demolab.com?user=ekshith-06&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ### 🧩 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/EkshithKumar?theme=dark&font=Karma&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/EkshithKumar?theme=sunset&font=Karma&ext=heatmap&border=0" />
+
 </p>
 
 ---
