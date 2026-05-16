@@ -39,11 +39,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ekshith-06&show_icons=true&theme=dark&hide_border=true&count_private=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=ekshith-06&theme=dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
