@@ -5,10 +5,9 @@
 ---
 
 ### 👨‍💻 About Me
-
 - 🎓 CS student passionate about coding, problem solving, and building real-world projects
 - ☕ Currently learning **HTML, CSS, JavaScript** and building with **Java**
-- 💡 Solved **114+ LeetCode problems** with a max streak of **51 days**
+- 💡 Solved **116+ LeetCode problems** with a max streak of **51 days**
 - 🧩 Check out my LeetCode: [EkshithKumar](https://leetcode.com/u/EkshithKumar/)
 - 📢 Sharing my learning journey on [LinkedIn](https://www.linkedin.com/in/ekshith-kumar-mamidisetti-a56b25354/)
 - 📫 Reach me at: ekshithkumarmamidisetti@gmail.com
@@ -16,7 +15,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,26 +26,15 @@
 ---
 
 ### 📚 Currently Learning
-
 - 🌐 Web Development — HTML, CSS, JavaScript
 - 🧠 Data Structures & Algorithms
 - 🗄️ Database concepts with SQL
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ekshith-06&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🧩 LeetCode Stats
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/EkshithKumar?theme=sunset&font=Karma&ext=heatmap&border=0" />
-
+  <img src="https://leetcard.jacoblin.cool/EkshithKumar?theme=sunset&font=Karma&ext=heatmap&border=0" alt="LeetCode Stats" />
 </p>
 
 ---
